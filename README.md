@@ -1,4 +1,4 @@
-# Matt McCallum — AI-Augmented Backend & Product-Minded Engineer
+# Matt McCallum — AI-Augmented Full Stack & Product-Minded Engineer
 
 **What I build:** AI automation backends, data pipelines, and practical tools that ship.
 
