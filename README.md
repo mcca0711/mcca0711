@@ -1,17 +1,17 @@
-# Matt McCallum - AI-Augmented Full Stack & Product-Minded Engineer
+# Matt McCallum - Full-Stack Developer | Applied AI
 
-**What I build:** AI automation backends, data pipelines, and practical tools that ship.
+**What I build:** Practical software, internal tools, and AI-assisted workflows that reduce manual work and help teams move faster.
 
-**Featured work**
-- **Solar Forecasting Dashboard** -- renewable-energy-mvp: Turns live weather into 48-hour power predictions with peak/maintenance tips, plus map and compare views.
-- **Dynamic Learning Paths** -- research_chat (TypeScript/Node + Vercel): AI generates tailored curricula for learner profiles.
-- **Solar Panel Optimizer** -- solar-panel-optimizer: hybrid Python/web app using env data to recommend panel placement.
-- **Sustainability Shopping Assistant** -- sustainability-shopping-assistant: product-impact scorer (carbon + alternatives) in Python.
+## Featured work
+- **Solar Forecasting Dashboard** — Renewable energy planning tool that turns live weather data into 48-hour power forecasts, maintenance signals, and site comparison views.
+- **Dynamic Learning Paths** — TypeScript/Node application that generates tailored learning paths from learner profiles and evolving goals.
+- **Solar Panel Optimizer** — Geospatial solar planning tool that uses environmental data to recommend panel placement and compare candidate sites.
+- **Sustainability Shopping Assistant** — Python-based product impact tool that scores items by carbon footprint and suggests lower-impact alternatives.
 
-**How I work**
-- Small, composable services. Clear contracts. Tests first where it matters.
-- Production deploys (Vercel/Pages/Docker) and docs that let others run it.
-- Pragmatic AI: minimal prompt-fragility; validation and guardrails around LLMs.
+## How I work
+- Build across the stack with Python, FastAPI, React/Vue, SQL, and API integrations.
+- Focus on useful software: clear requirements, maintainable delivery, and workflows that solve real problems.
+- Use AI pragmatically, with validation, structured outputs, and guardrails where they matter.
 
 **Links**
 - Portfolio: https://mcca0711.github.io/mccallum-portfolio/
