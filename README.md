@@ -1,4 +1,4 @@
-# Matt McCallum - Full-Stack Developer | Applied AI
+# Matthew McCallum - Full-Stack Developer | Applied AI
 
 **What I build:** Practical AI-assisted software, desktop apps, internal tools, and workflow systems that reduce manual busywork and help people organize, review, and explain complex work.
 
