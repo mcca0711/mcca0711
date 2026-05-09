@@ -1,19 +1,29 @@
 # Matt McCallum - Full-Stack Developer | Applied AI
 
-**What I build:** Practical software, internal tools, and AI-assisted workflows that reduce manual work and help teams move faster.
+**What I build:** Practical AI-assisted software, desktop apps, internal tools, and workflow systems that reduce manual busywork and help people organize, review, and explain complex work.
 
 ## Featured work
+
+- **Berly** — Downloadable Electron + React/TypeScript desktop app for AI compliance documentation, with local-first storage, evidence review, document/PDF export, licensing, purchase flow, and download delivery.  
+  Website: https://berly.app
+
+- **Portfolio Website** — Lightweight GitHub Pages portfolio focused on full-stack development, applied AI, Berly, and selected software projects.  
+  Website: https://mcca0711.github.io/mccallum-portfolio/
+
 - **Solar Forecasting Dashboard** — Renewable energy planning tool that turns live weather data into 48-hour power forecasts, maintenance signals, and site comparison views.
-- **Dynamic Learning Paths** — TypeScript/Node application that generates tailored learning paths from learner profiles and evolving goals.
-- **Solar Panel Optimizer** — Geospatial solar planning tool that uses environmental data to recommend panel placement and compare candidate sites.
-- **Sustainability Shopping Assistant** — Python-based product impact tool that scores items by carbon footprint and suggests lower-impact alternatives.
+
+- **AI Chat Application** — Full-stack chat application with React, Express, OpenAI integration, real-time messaging, and deployment on Vercel.
 
 ## How I work
-- Build across the stack with Python, FastAPI, React/Vue, SQL, and API integrations.
-- Focus on useful software: clear requirements, maintainable delivery, and workflows that solve real problems.
-- Use AI pragmatically, with validation, structured outputs, and guardrails where they matter.
 
-**Links**
+- Build across the stack with Python, FastAPI, React/Vue, TypeScript, SQL, PostgreSQL, Supabase, and API integrations.
+- Use AI pragmatically: structured outputs, summarization, transcription, evidence review, document workflows, and automation where they reduce manual effort.
+- Focus on practical software that makes messy workflows easier to manage, review, and improve.
+- Bring a trades-to-technology background, with a bias toward tools that solve real operational problems instead of just looking good in demos.
+
+## Links
+
 - Portfolio: https://mcca0711.github.io/mccallum-portfolio/
-- LinkedIn: (https://www.linkedin.com/in/mcmatt42/)
+- Berly: https://berly.app
+- LinkedIn: https://www.linkedin.com/in/mcmatt42/
 - Contact: orbit9112@gmail.com
