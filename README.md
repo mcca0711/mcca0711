@@ -10,9 +10,9 @@
 - **Portfolio Website** — Lightweight GitHub Pages portfolio focused on full-stack development, applied AI, Berly, and selected software projects.  
   Website: https://mcca0711.github.io/mccallum-portfolio/
 
-- **Solar Forecasting Dashboard** — Renewable energy planning tool that turns live weather data into 48-hour power forecasts, maintenance signals, and site comparison views.
+- **Solar Forecasting Dashboard (archived) ** — Renewable energy planning tool that turns live weather data into 48-hour power forecasts, maintenance signals, and site comparison views.
 
-- **AI Chat Application** — Full-stack chat application with React, Express, OpenAI integration, real-time messaging, and deployment on Vercel.
+- **AI Chat Application (archived) ** — Full-stack chat application with React, Express, OpenAI integration, real-time messaging, and deployment on Vercel.
 
 ## How I work
 
