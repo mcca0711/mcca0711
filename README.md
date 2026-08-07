@@ -1,4 +1,4 @@
-# Matthew McCallum — AI & Data Product Developer
+# Matthew McCallum - AI & Data Product Developer
 
 Full-stack developer building AI-enabled applications, data-rich software, and production workflows with TypeScript, Vue/React, Python, SQL, and LLM integrations.
 
